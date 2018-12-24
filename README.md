@@ -8,7 +8,7 @@ https://github.com/ageron/handson-ml
 
 https://github.com/exacity/deeplearningbook-chinese
 
-- Deep Learning with Python
+- Deep Learning with Python(keras)
 
 链接: https://pan.baidu.com/s/1GRBL5WvxHj79i9Rs28AshQ 提取码: dpnf
 
