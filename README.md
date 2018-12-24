@@ -15,3 +15,5 @@ https://github.com/exacity/deeplearningbook-chinese
 - 神经网络和深度学习
 
 英文链接: http://neuralnetworksanddeeplearning.com/
+
+- 神经网络和深度学习PPT & 讲义
