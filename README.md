@@ -17,3 +17,7 @@ https://github.com/exacity/deeplearningbook-chinese
 英文链接: http://neuralnetworksanddeeplearning.com/
 
 - 神经网络和深度学习PPT & 讲义
+
+- 吴恩达老师-深度学习课程笔记
+
+https://github.com/fengdu78/deeplearning_ai_books
